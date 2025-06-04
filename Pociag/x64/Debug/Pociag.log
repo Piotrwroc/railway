@@ -1,0 +1,13 @@
+﻿  Raiload.cpp
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(146,78): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(146,78): warning C4244:         with
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(146,78): warning C4244:         [
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(146,78): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(146,78): warning C4244:         ]
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(397,78): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(639,85): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(639,85): warning C4244:         with
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(639,85): warning C4244:         [
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(639,85): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Piotr\source\repos\Pociag\Raiload.cpp(639,85): warning C4244:         ]
+  Pociag.vcxproj -> C:\Users\Piotr\source\repos\Pociag\x64\Debug\Pociag.exe
